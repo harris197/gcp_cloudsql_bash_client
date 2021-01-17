@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "logical-factor-233519",
+  "private_key_id": "b738c4929dd9e616504dda6ab8fd9c4d104294cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDvfgjxqGuNVF2H\nhlR6huw27EPkIzHP1i67TQFIGYSRAZ7IvXfx+qBayfDkv986YEvcFSXx5e5UlcCT\nvL3cc9PnvzpwzqutB/RCLnHdotIyavBMLqnNCqq36dPMvYx5hC5WpwUnP8vWwV7Y\noNHWVhJ8Cvt1tHxm9xYCLVW4OTrqNCPFX8JmzuaHDGOLc4tCPmkiSgRIePi1TjiJ\nLIY9F978McADf92EQTYJ0+00wOI1n1/ZaOA//8drAgvNVmC1IBwezcdAo6cyVqPD\nAJbKir2Cx3K2okhGeI5ijs5J4i+VPx9NB4kQu8D2U45oI+kp6cD5ZJ0NaItOh5K+\nMHVhmmsbAgMBAAECggEAFwyuyK9Ydpg1jjsX+1jr+BdCK31VqHapNb6iDnHiR+B7\niz9tAV2JPGOuKx3qWqB0/KAOcFscVoi5KZ7jOQnuzaGiesPxUuxujkYREG9Awrh3\nGyXskr7hkmTPTSe7EuDtYsqdXNsvf6JJwhisSXAsREL8U6ZEyNYkCJ6bXuknKe4e\nDaswbYBSCT0R/Hz+v3ZTDiwhn9Vja5FNdUFgwTA6L/tpyINj7/yV0TTtwPkRR+B/\n7JGGbKuZJYhq8vtzkc7OHE5HOyxCeenb0kzqxE/y6HmWR2CZayX0NrAXG8gwrzmx\n9rZzKIgYoIy+Z2wjR2Nhqcbra3sMmrJxEzQOE+o2uQKBgQD8NaKCKsv+jCbOWnAS\nHmHkmN29v4epzIiMhM4VRIyDafkZExVy7waB/3nliU/x9RlOsuOANhAH5qSvvwFf\nskc6X0bkHFgE7WFLP2NaFfXS1mTB8XaQjypTlDzX9FO4UmI1mgRDW9bIJaGVotRJ\n1g9y5zLfS3h7aSKhmMhAiY8WgwKBgQDzF3in2CNQJKf2k56V6u+NWB95P9NIveyI\nVs6U6FneDHGayVLgy+DVC7i9itEZIACgVlWGGeLZWFiNAeqlCAbuPowUszOE9XS3\nn1M+ubUINAawz+5hGBwcYWn6PFcRBuavxAB07gzh5e1fQ/W3Aj8zgC4+KEcytZoJ\n24OM5dT1iQKBgQCLvsg5qa74bv29jvzT/UOun0kWLz7jRbJPcfKidCYLVrewPhO/\naFPJyh3nokrKvUz1f0dxLgN57UFJI+OF+8ldvZcRI+dda45iXFAXhV19IlAX6kwQ\n01LXlqaT3gxZcER8gMdl70g2BCvhNqS7+MD8oMBeW3n5n4qR0Y77u3yuMwKBgQDn\nJtR2VdIObSzCDVDpIYM0li0ncIeKTf7TDihV9DMwMAj+tJ14YKWkMAc1RQDbsVCn\nJjEg2RCat6VMQBxNXTqp5RPywwwkS/r2eCwCIzh/WmlaS/5SmUhxvDe32RS5fiRx\n0iDVD190ltyGj+rgYOSUJjjSph49m+2jnfaTTiCYcQKBgHGEJeCadN1HoNOn+u2Q\nXDqs/ugHbqIw52Y+N2czHif4o9psoL0ZVGxBQYT6TxrbrYslAvanJ3KESLLDgjmU\nIRHRhYVPS7z9lBgPoKz6k84UHSc4cc4Nk//JKFHcMvmnpjLb4Rq881xH8m6iG7m8\nOrp976LG1FjIc8pIq2xSCJll\n-----END PRIVATE KEY-----\n",
+  "client_email": "mysql-tester@logical-factor-233519.iam.gserviceaccount.com",
+  "client_id": "112107828496132775049",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mysql-tester%40logical-factor-233519.iam.gserviceaccount.com"
+}
